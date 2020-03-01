@@ -20,19 +20,20 @@
 <body>
 
     <main role="main" class="container header-section">
-        <a href="../"><h1 class="name-header">Frank Hicks</h1></a>
-        <ul class="right-side-nav">
-            <li><a href="../">Home</a></li>
-            <li><a href="../work/">Work</a></li>
-            <li><a href="../about/">About</a></li>
-            <li><a href="./">Contact</a></li>
-            <li><a href="../shop/">Shop</a></li>
-        </ul>
-          <!-- Button trigger modal -->
-          <button id="m-menu-btn" type="button" class="btn" data-toggle="modal" data-target="#mobile-nav">
-            <i class="fa fa-bars menu-bars"></i>
-          </button>
-      </main>
+        <header id="page-header">
+          <div class="mt-4">
+             <div id="header-logo-wrapper">
+                <!-- Button trigger modal -->
+                <button id="m-menu-btn" type="button" class="btn" data-toggle="modal" data-target="#mobile-nav">
+                  <i class="fa fa-bars menu-bars"></i>
+                </button>
+                <a id="header-logo" href="/">
+                <img src="images/test.jpg" alt="test" height="47" id="">
+                </a>
+             </div>
+          </div>
+       </header>
+    </main>
       
       <!-- Modal Menu -->
       <div class="modal fade nav-bg-white" id="mobile-nav" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
