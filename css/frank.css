@@ -1,3 +1,7 @@
 #header-logo {
     margin-left: calc(45% - 30px);
 }
+
+#m-menu-btn {
+    font-size: 1.5em;
+}
