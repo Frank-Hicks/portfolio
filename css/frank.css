@@ -15,6 +15,10 @@ h3 {
     font-family: 'Playfair Display';
 }
 
+i {
+    font-weight: 300;
+}
+
 a {
     color: #424242;
 }
