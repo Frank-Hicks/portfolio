@@ -9,3 +9,15 @@
 .content-sep {
     border-top: solid 1px #e6e6e6;
 }
+
+@media only screen and (max-width: 767px) {
+    .work-desc-lg {
+        display: none;
+    }
+}
+
+@media only screen and (min-width: 768px) {
+    .work-desc-sm {
+        display: none;
+    }
+}
