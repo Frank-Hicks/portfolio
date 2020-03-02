@@ -1,18 +1,18 @@
 body {
     color: #424242;
-    font-family: 'Open Sans';
 }
 
 body p {
+    font-family: 'Open Sans', ;
     font-weight: 100;
 }
 
 h2 {
-    font-family: 'Playfair Display';
+    font-family: 'Playfair Display', ;
 }
 
 h3 {
-    font-family: 'Playfair Display';
+    font-family: 'Playfair Display', ;
 }
 
 a {
