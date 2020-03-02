@@ -1,3 +1,16 @@
+body {
+    color: #083800;
+}
+
+a {
+    color: #424242;
+}
+
+a:hover {
+    color: #424242;
+    text-decoration: underline;
+}
+
 #header-logo {
     margin-left: calc(45% - 30px);
 }
