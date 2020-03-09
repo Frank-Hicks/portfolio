@@ -28,12 +28,49 @@ a:hover {
     text-decoration: underline;
 }
 
+/* menu overlay */
+
+.nav-bg-white {
+background-color: #f0f8ffd4;
+}
+
+.nav-mn {
+    margin: 0;
+    max-width: none;
+}
+
+.nav-cover {
+    position: absolute;
+    background-color: inherit;
+    border: none;
+    border-radius: 0;
+}
+
+.mobile-nav li {
+    list-style: none;
+    font-size: 2em;
+    margin: 1em;
+    font-family: 'Playfair Display';
+}
+
 #header-logo {
     margin-left: calc(45% - 30px);
 }
 
 #m-menu-btn {
     font-size: 1.5em;
+}
+/* end menu overlay */
+
+.social-media {
+    float: right;
+    list-style: none;
+    margin-bottom: 0;
+}
+
+.social-media li {
+    display: inline-block;
+    margin-left: 1em;
 }
 
 .content-sep {
