@@ -1,5 +1,5 @@
 body {
-    color: #2b2b2b;
+    color: #2c5d22;
 }
 
 body p {
@@ -20,18 +20,18 @@ i {
 }
 
 a {
-    color: #2b2b2b;
+    color: #2c5d22;
 }
 
 a:hover {
-    color: #2b2b2b;
+    color: #ffdb4d;
     text-decoration: underline;
 }
 
 /* menu overlay */
 
 .nav-bg-white {
-background-color: #f0f8ffd4;
+background-color: #ffffff;
 }
 
 .nav-mn {
@@ -54,10 +54,11 @@ background-color: #f0f8ffd4;
 }
 
 #header-logo {
-    margin-left: calc(45% - 30px);
+    margin-left: calc(50% - 30px);
 }
 
 #m-menu-btn {
+    color: #2c5d22;
     font-size: 1.5em;
 }
 /* end menu overlay */
@@ -74,7 +75,7 @@ background-color: #f0f8ffd4;
 }
 
 .content-sep {
-    border-top: solid 1px #e6e6e6;
+    border-top: solid 1px #2c5d22;
 }
 
 @media only screen and (max-width: 767px) {
