@@ -1,5 +1,5 @@
 body {
-    color: #2c5d22;
+    color: #2b2b2b;
 }
 
 body p {
@@ -20,7 +20,7 @@ i {
 }
 
 a {
-    color: #2c5d22;
+    color: #2b2b2b;
 }
 
 a:hover {
@@ -58,7 +58,7 @@ background-color: #ffffff;
 }
 
 #m-menu-btn {
-    color: #2c5d22;
+    color: #2b2b2b;
     font-size: 1.5em;
 }
 /* end menu overlay */
@@ -75,7 +75,7 @@ background-color: #ffffff;
 }
 
 .content-sep {
-    border-top: solid 1px #2c5d22;
+    border-top: solid 1px #2b2b2b;
 }
 
 @media only screen and (max-width: 767px) {
